@@ -1,0 +1,17 @@
+Cos'è un algoritmo?
+Un algoritmo è semplicemente una serie di istruzioni passo-passo che spiega come fare qualcosa.
+ Puoi pensare a un algoritmo come una ricetta di cucina: ci sono dei passaggi precisi da seguire per raggiungere 
+ un risultato, ad esempio preparare una torta. In informatica, un algoritmo è un insieme di istruzioni che il computer
+ segue per risolvere un problema o per fare un compito, come ad esempio calcolare qualcosa o organizzare 
+delle informazioni.
+
+Cos'è una variabile?
+Una variabile è come una scatola dove puoi mettere un valore, e puoi usare quella scatola ogni volta che ti serve quel valore.
+ Ad esempio, immagina di avere una scatola con sopra scritto "età", e dentro ci metti il numero 25. 
+ Quando il programma ha bisogno di sapere l'età, può aprire la scatola e trovare quel numero.
+In JavaScript (e in programmazione in generale), le variabili vengono usate per memorizzare dati, come numeri, parole, o qualsiasi altra informazione utile. 
+Puoi anche cambiare quello che c'è dentro una variabile, proprio come cambieresti il contenuto di una scatola.
+
+Undefined e null sono la stessa cosa?
+no non sono la stessa cosa undefined viene usato per indicare che un qualcosa non è stato definito o non gli è stato
+assegnato un valore, mentre null viene usato per dire che il valore di una determinata variabile è nullo.
